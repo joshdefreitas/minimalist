@@ -66,9 +66,9 @@
     width: 70%;
   }
 
-  .box img.img-circle,
-  .popup img.img-circle {
-      max-width: 100%; /* Make sure the image scales down proportionally */
-      height: auto; /* Maintain aspect ratio */
+  .img-circle {
+    max-width: 100%; /* Scale the image to fit within its container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure it's displayed */
   }
 }
