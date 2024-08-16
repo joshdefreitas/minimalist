@@ -26,9 +26,8 @@
     <div class="wrapper">
       <div class="sidebar">
         <header>
-          {% if site.logo %}
-            <img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo">
-          {% endif %}
+          
+          <img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo">
 
           {% if site.blank_title %}
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
