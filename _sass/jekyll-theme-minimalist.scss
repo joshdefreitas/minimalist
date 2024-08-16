@@ -286,11 +286,13 @@ footer {
   margin-bottom: 20px;
 }
 
+/*
 @media print, screen and (min-width: 961px) {
   .link-wrapper-mobile {
     display: none !important;
   }
 }
+*/
 
 @media print, screen and (max-width: 480px) {
   body {
