@@ -65,11 +65,14 @@
   .popup{
     width: 70%;
   }
-
+  
+  
   .img-circle {
-    max-width: 100%; /* Scale the image to fit within its container */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Ensure it's displayed */
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
     object-fit: cover;
-  }
+  } 
+
+
 }

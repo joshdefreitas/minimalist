@@ -259,11 +259,27 @@ footer {
     display: none !important;
   }
   
+  /*
   .img-circle {
   //  display: none !important;
     border-radius: 50%;
     overflow: hidden;
     object-fit: cover;
+  }*/
+
+  .circular-box {
+    width: 200px; /* Set the width of the circular box */
+    height: 200px; /* Set the height of the circular box */
+    border-radius: 50%; /* Make the container circular */
+    overflow: hidden; /* Ensure the image stays within the circular box */display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .circular-box img {
+    width: 100%; /* Make the image fit the container */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover; /* Ensure image covers the entire circular area */
   }
   
 }
