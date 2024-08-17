@@ -279,9 +279,9 @@ footer {
   }
 
   .circular-box img {
-    width: 100%; /* Make the image fit the container */
-    height: auto; /* Maintain aspect ratio */
-    object-fit: cover; /* Ensure image covers the entire circular area */
+    width: auto;
+    height: 340px;
+    object-fit: cover;
   }
   
 }
@@ -302,6 +302,8 @@ footer {
   pre, code {
     word-wrap:normal;
   }
+
+  
 }
 
 .link-wrapper-mobile {
