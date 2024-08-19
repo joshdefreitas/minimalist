@@ -62,11 +62,15 @@ I am a highly motivated Cloud Engineer with [number] years of experience in desi
 * [Technologies used]
 * [Link to project details or GitHub repository] (Optional)
 
+[View All Projects](./projects.html).
+
 ### Certifications
 
 * [Certification Name] - [Certifying Organization] ([Year])
 * [Certification Name] - [Certifying Organization] ([Year])
 * [Certification Name] - [Certifying Organization] ([Year])
+
+[View All Certificates](./certificates.html).
 
 ### Courses
 
