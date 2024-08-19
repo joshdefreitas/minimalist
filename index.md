@@ -1,123 +1,86 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+### About
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+[Image of you]
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+I am a highly motivated Cloud Engineer with [number] years of experience in designing, implementing, and managing robust cloud infrastructures. Proven expertise in [list of core competencies, e.g., AWS, Azure, DevOps, CI/CD]. Committed to delivering scalable, secure, and cost-effective cloud solutions. Always eager to learn new technologies and contribute to innovative projects.]
 
-```
-The final element.
-```
+
+### Experience
+
+#### [Job Title] - [Company] ([Dates])
+
+* [Key responsibility 1 and achievement]
+* [Key responsibility 2 and achievement]
+* [Key responsibility 3 and achievement]
+
+#### [Job Title] - [Company] ([Dates])
+
+* [Key responsibility 1 and achievement]
+* [Key responsibility 2 and achievement]
+* [Key responsibility 3 and achievement]
+
+
+### Education
+
+#### [Degree Name] - [University/Institution] ([Year])
+
+* [Relevant coursework or honors]
+
+#### [Degree Name] (Optional) - [University/Institution] ([Year]) (Optional)
+
+* [Relevant coursework or honors] (Optional)
+
+
+### Skills
+
+* Cloud Platforms: AWS, Azure, GCP
+* Programming Languages: Python, Java, Go
+* DevOps Tools: Terraform, Ansible, Jenkins
+* Containerization: Docker, Kubernetes
+* [Other relevant skills, e.g., Security (IAM, KMS), Infrastructure as Code (IaC)]
+
+
+### Projects
+
+#### Project 1
+
+[Image of project] (Consider using a free image source like Unsplash)
+
+* **[Project Title]**
+* [Brief description of project and your role]
+* [Technologies used]
+* [Link to project details or GitHub repository] (Optional)
+
+#### Project 2
+
+[Image of project] (Consider using a free image source like Unsplash)
+
+* **[Project Title]**
+* [Brief description of project and your role]
+* [Technologies used]
+* [Link to project details or GitHub repository] (Optional)
+
+### Certifications
+
+* [Certification Name] - [Certifying Organization] ([Year])
+* [Certification Name] - [Certifying Organization] ([Year])
+* [Certification Name] - [Certifying Organization] ([Year])
+
+### Courses
+
+* [Course Name] - [Platform] ([Year])
+* [Course Name] - [Platform] ([Year])
+* [Course Name] - [Platform] ([Year])
+
+
+### Badges
+* [Badge Name] - [Platform] ([Year])
+* [Badge Name] - [Platform] ([Year])
+* [Badge Name] - [Platform] ([Year]) 
+
+
+### Contact
+
+* [Contact me]
