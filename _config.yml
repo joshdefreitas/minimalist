@@ -24,7 +24,7 @@ sidebar:
   - name: Projects
     icon: <i class="fa-regular fa-folder-open"></i>
     link: https://joshdefreitas.info/projects  
-  - name: Personal Blog
+  - name: Blog
     icon: <i class="fa-solid fa-pencil"></i>
     link: https://blog.joshdefreitas
   - name: Photography
