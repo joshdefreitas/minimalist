@@ -1,52 +1,50 @@
-
-
----------------------------------------------------------------------------------------
-
-
+---
 ### SITE UNDER MAINTENANCE 🔧
-
-
----------------------------------------------------------------------------------------
+---
 
 ### About
 
 [Image of you]
 
+### Skills
+
+- Cloud Platforms: AWS
+- Programming Languages: Python, Java, Go
+- DevOps Tools: Terraform, Ansible, Jenkins
+- Containerization: Docker, Kubernetes
+- Other skills: Security (IAM, KMS), Infrastructure as Code (IaC)
 
 ### Experience
 
-#### [Job Title] - [Company] ([Dates])
+#### Digital Transformation Analyst - Ministry of Digital Transformation (2023-Present)
 
-* [Key responsibility 1 and achievement]
-* [Key responsibility 2 and achievement]
-* [Key responsibility 3 and achievement]
+- [Key responsibility 1 and achievement]
+- [Key responsibility 2 and achievement]
+- [Key responsibility 3 and achievement]
 
-#### [Job Title] - [Company] ([Dates])
+#### Associate Professional - Ministry of Digital Transformation (2022-2023)
 
-* [Key responsibility 1 and achievement]
-* [Key responsibility 2 and achievement]
-* [Key responsibility 3 and achievement]
+- [Key responsibility 1 and achievement]
+- [Key responsibility 2 and achievement]
+- [Key responsibility 3 and achievement]
 
+#### Programmer Analyst 1 - Guardian Group (2021-2022)
+
+- [Key responsibility 1 and achievement]
+- [Key responsibility 2 and achievement]
+- [Key responsibility 3 and achievement]
 
 ### Education
 
-#### [Degree Name] - [University/Institution] ([Year])
+#### M.S. Computer Science - Georgia Institute of Technology (2026)
 
-* [Relevant coursework or honors]
+- Computing Systems, Software Development, Information Security, Software Architecture and Design, Cyber-Physical Systems
 
-#### [Degree Name] (Optional) - [University/Institution] ([Year]) (Optional)
+#### B.A.Sc. Biomedical Engineering - University of British Columbia (2022)
 
-* [Relevant coursework or honors] (Optional)
-
-
-### Skills
-
-* Cloud Platforms: AWS, Azure, GCP
-* Programming Languages: Python, Java, Go
-* DevOps Tools: Terraform, Ansible, Jenkins
-* Containerization: Docker, Kubernetes
-* [Other relevant skills, e.g., Security (IAM, KMS), Infrastructure as Code (IaC)]
-
+- Computer Science Fundamentals: Programming languages (Python, C++, Java), data structures, algorithms.
+- Electrical Engineering: Circuit analysis, digital logic, microcontrollers.
+- Mechanical Engineering: Statics, dynamics, materials science.
 
 ### Projects
 
@@ -54,43 +52,38 @@
 
 [Image of project] (Consider using a free image source like Unsplash)
 
-* **[Project Title]**
-* [Brief description of project and your role]
-* [Technologies used]
-* [Link to project details or GitHub repository] (Optional)
+- **[Project Title]**
+- [Brief description of project and your role]
+- [Technologies used]
+- [Link to project details or GitHub repository] (Optional)
 
 #### Project 2
 
 [Image of project] (Consider using a free image source like Unsplash)
 
-* **[Project Title]**
-* [Brief description of project and your role]
-* [Technologies used]
-* [Link to project details or GitHub repository] (Optional)
+- **[Project Title]**
+- [Brief description of project and your role]
+- [Technologies used]
+- [Link to project details or GitHub repository] (Optional)
 
 [View All Projects](./projects.html).
 
 ### Certifications
 
-* [Certification Name] - [Certifying Organization] ([Year])
-* [Certification Name] - [Certifying Organization] ([Year])
-* [Certification Name] - [Certifying Organization] ([Year])
+- [Certification Name] - [Certifying Organization] ([Year])
+- [Certification Name] - [Certifying Organization] ([Year])
+- [Certification Name] - [Certifying Organization] ([Year])
 
 [View All Certificates](./certificates.html).
 
 ### Courses
 
-* [Course Name] - [Platform] ([Year])
-* [Course Name] - [Platform] ([Year])
-* [Course Name] - [Platform] ([Year])
-
+- [Course Name] - [Platform] ([Year])
 
 ### Badges
-* [Badge Name] - [Platform] ([Year])
-* [Badge Name] - [Platform] ([Year])
-* [Badge Name] - [Platform] ([Year]) 
 
+- [Badge Name] - [Platform] ([Year])
 
 ### Contact
 
-* [Contact me]
+- [Contact me]
