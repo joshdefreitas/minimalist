@@ -20,16 +20,16 @@ sidebar:
     link: https://github.com/joshdefreitas
   - name: Certificates
     icon: <i class="fa-solid fa-trophy"></i>
-    link: https://joshdefreitas.info/certificates
+    link: https://joshdefreitas.com/certificates
   - name: Projects
     icon: <i class="fa-regular fa-folder-open"></i>
-    link: https://joshdefreitas.info/projects  
+    link: https://joshdefreitas.com/projects  
   - name: Blog
     icon: <i class="fa-solid fa-pencil"></i>
-    link: https://blog.joshdefreitas.info
+    link: https://blog.joshdefreitas.com
   - name: Photography
     icon: <i class="fa-solid fa-camera"></i>
-    link: https://photos.joshdefreitas.info
+    link: https://photos.joshdefreitas.com
 
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
